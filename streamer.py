@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from twython import Twython
 from twython import TwythonStreamer
-
+import re
 from tokens import *
 
 with open("emojis.txt") as f:
@@ -14,13 +14,18 @@ with open("emojis.txt") as f:
             d[name] = emojis
 
 
-def printtweet(data):
-    print data["user"]["screen_name"]
-    print data["text"].encode('utf-8')
-    print data["id"]
-    print
 
 class MyStreamer(TwythonStreamer):
+    def formattweet(self, data):
+        text = data["text"].encode('utf-8')
+        text = re.sub(r"\n", " ", text)
+        text = re.sub(r"\t", " ", text)
+        tid = data["id"]
+        return str(tid) + "\t" + text
+
+    def set_out(self, out):
+        self.out = out
+        
     def on_success(self, data):
 
         if "retweeted_status" in data:
@@ -37,7 +42,10 @@ class MyStreamer(TwythonStreamer):
             for emojilist in d.keys():
                 for k in d[emojilist]:
                     if k in t:
-                        printtweet(data)
+                        text = self.formattweet(data)
+                        print text
+                        out.write(text + "\n")
+                        out.flush()
                         return
 
     def on_error(self, status_code, data):
@@ -47,6 +55,9 @@ class MyStreamer(TwythonStreamer):
         print "error...", status_code
         pass
 
-stream = MyStreamer(APP_KEY, APP_SECRET,
+
+with open("tweets.txt", "a") as out:
+    stream = MyStreamer(APP_KEY, APP_SECRET,
                     OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
-stream.statuses.sample()
+    stream.set_out(out)
+    stream.statuses.sample()
