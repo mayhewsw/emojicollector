@@ -1,0 +1,31 @@
+package io.github.mayhewsw.emoji.lbjava;
+
+import io.github.mayhewsw.emoji.Tweet;
+import io.github.mayhewsw.emoji.TweetReader;
+import io.github.mayhewsw.emoji.features.*;
+import java.util.List;
+
+discrete% Words(Tweet t) <- {
+      List toks = t.getTokens();
+      for(int i = 0; i < toks.size(); i++){
+          sense toks.get(i);
+      }
+}
+
+discrete EmojiLabel(Tweet t) <- { return t.getEmoji().get(0); }
+
+discrete EmojiClassifier(Tweet t) <-
+    learn EmojiLabel
+    using Words
+
+    from new TweetReader("tweets.train")
+
+    with MultiLabelLearner {
+        SparseAveragedPerceptron.Parameters p = new SparseAveragedPerceptron.Parameters();
+        p.learningRate = .1;
+        p.thickness = 2;
+        baseLTU = new SparseAveragedPerceptron(p);
+    }
+
+    testFrom new TweetReader("tweets.test")
+end

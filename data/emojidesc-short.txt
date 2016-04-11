@@ -1,0 +1,972 @@
+# Face Emojis
+😀	A face with a big open (grinning) mouth, showing teeth. Differs only slightly from the Smiling Face With Open Mouth And Smiling Eyes by the fact that these eyes are small circles, instead of the emoji-style smiling eyes.
+😁	A version of the grinning face, which looks closer to a grimacing face on many platforms.
+😂	A laughing emoji which at small sizes is often mistaken for being tears of sadness. This emoji is laughing so much that it is crying tears of joy.
+😃	A classic smiley-face emoji with an open mouth showing teeth, and tall, open eyes. Differs only slightly from the Smiling Face With Open Mouth And Smiling Eyes Emoji by the fact that these eyes are tall ovals, instead of the emoji-style smiling eyes.
+😄	A happy and smiling face with big open mouth, showing teeth.
+😅	The same face as Smiling Face With Open Mouth And Smiling Eyes, but with a single drop of sweat on one side of the face.
+😆	A face with a big smiling mouth, and scrunched-closed eyes.
+😇	A face with a halo above it, used to represent an angel, or a good person / person who has done a good deed.
+😈	A smiling devil-like face. Has an evil-looking smiling face with inward facing eyebrows. In Apple’s artwork, this appears purple, and nearly identical to the Imp emoji.
+👿	A less-evil version of a demon; the Imp is a cheeky and mischievous character originating in Germanic Folkore.
+😉	A classic winky emoji; winking and smiling.
+😊	A smiling face, with smiling eyes and rosy cheeks. Showing a true sense of happiness.
+😋	A friendly, goofy smile with tongue hanging out the side of the mouth. Used to indicate a silly happiness.
+😌	Pleasantly content. Happy, but not over the top. Feeling a sense of relief over a situation, or to convey a calm or content state of mind.
+😍	A face with hearts instead of eyes, or Heart Eyes Emoji as it is generally known. Used as an expression of love, for example:  “I love you” or “I love this”.
+😎	A face smiling and wearing dark sunglasses. Is used to denote a sense of cool.
+😏	A sly smile, often used with a sexual, or smug connotation. Not to be confused with the unamused face, which has similar eyes, but a displeased mouth.
+😐	A face featuring a straight-and-closed mouth, not giving away any particular emotion.
+😑	A face with narrow, closed eyes, and a straight mouth. A deliberate display of ‘no comment’ as opposed to a completely neutral face.
+😒	This face is not amused. This is not a face of sadness, it is more of a grumpy, displeased look. Used to express dissatisfaction.
+😓	A face with a sad or neutral mouth, with a single drop of sweat.
+😔	A pensive, remorseful face. Saddened by life. Quietly considering where things all went wrong.
+😕	Part displeased, part unsure what to think. This face isn’t sad, but is a bit confused and puzzled by the situation.
+😖	On the verge of tears, this emoji has tightly closed eyes, and a quivering mouth.
+😗	This emoji is kissing, but also looks like a whistling emoji, or blowing air. A bit more of an ‘innocent, I’m pretending I didn’t do anything’ whistle, especially if combined with the music note.
+😘	An emoji face blowing a kiss; but officially called “Face Throwing A Kiss”.
+😙	This emoji is kissing, but also looks like a whistling emoji, or blowing air. A bit more of an ‘innocent, I’m pretending I didn’t do anything’ whistle, especially if combined with the music note.
+😚	A face with pursed lips, slightly blushing while making kissing motion. More intimate than the regular kissing face emoji, due to the eyes being closed.
+😛	A cheeky face sticking its tongue out in jest. Used as a way of stating “I’m kidding” or generally being jovial and not serious.
+😜	A face showing a stuck-out tongue, winking at the same time. Used in an attempt to be wacky, zany, or otherwise joking.
+😝	Has both eyes closed, sticking tongue out.
+😞	A sad face with a frowning mouth and disappointed eyes.
+😟	Face with a sad mouth, and worried-looking eyebrows.
+😠	An angry looking face. Has inward-facing eyebrows, and a frowning mouth. Expresses anger, grumpiness or annoyance at a situation.
+😡	A person pouting. Outwardly showing his or her displeasure with the situation.
+😢	A face with a single tear running from one eye, down the cheek. Some versions of this emoji features a tear on each cheek.
+😣	Face with scrunched up and closed eyes, frowning. Used to show helplessness in a situation. May be on the verge of tears.
+😤	A face with air coming out of its nose, in a proud yet disdainful way.
+😥	This face has sweat dripping from its brow, due to a stressful situation.
+😦	Face with open eyes and open mouth. The Apple artwork for this emoji looks like a person yawning. Google and Microsoft’s artwork appear closer to the frowning description.
+😧	This face has raised eyebrows, open eyes and open mouth. A mixture of shock and disappointment.
+😨	A face with wide open eyes and raised eyebrows. Appears to be shocked by a scary event.
+😩	A distraught-looking emoji with an open mouth, and crescent shaped eyes. Appears to have given up.
+😪	Not to be confused with Sleeping Face Emoji, this sleepy-face emoji features a snot bubble coming out of the nose. This is used in anime and manga to indicate that a character is sleeping.
+😫	An exhausted-looking face with an open mouth and tightly closed eyes. On some platforms this emoji is similar in appearance to the Weary Face, and not to be confused with the Sleeping Face which is actually asleep.
+😬	A grimace emoji, showing bared teeth, usually for when a mistake or unfavorable situation has arisen – aka “eek!” The appearance of this emoji varies greatly between platforms. Use with caution.
+😭	A sad face with tears streaming down both cheeks. This face is distraught and inconsolable. Not to be confused with the tears of joy emoji.
+😮	A face with the mouth wide open. Generally used for reasons including gasping, or being in shock.
+😯	A face that looks more surprised than hushed, it has high eyebrows, and an open mouth. The appearance is similar to the Astonished face, but with open eyes instead of X eyes.
+😰	A look of concern, with a blue forehead and sweat dripping down the cheek.
+😱	A screaming face with two hands holding the jaw and cheeks, in a Home Alone-style pose. Perhaps it saw a ghost.
+😲	An astonished face, with a wide open mouth, gasping.
+😳	An embarrassed face with flushed red cheeks. This face is blushing due to a mistake, or other embarrassing situation.
+😴	Face with eyes closed, and a sleep symbol – Zzz – over the head
+😵	A dizzy face, looking sick or confused from being spun around in circles too many times.
+😶	This emoji has eyes, and no mouth. Represents silence, as this emoji is always silent. Imagine the things he would say if he had a mouth!
+😷	A person with a surgical mask on their face, generally used in a hospital setting, or when working with dangerous fumes.
+🙁	A face that is a little bit sad, with a slight frown and neutral eyes.
+🙂	A face that is a little bit happy, with a slight smile and neutral eyes.
+😸	The cat variant of the Grinning Face Emoji.
+😹	The cat variant of the Face With Tears Of Joy.
+😺	The cat variant of the Smiling Face With Open Mouth Emoji.
+😻	The cat variant of the Smiling Face With Heart-Shaped Eyes Emoji. No one knows why we need a cat variant of this.
+😼	The cat variant of the Smirking Face Emoji.
+😽	The cat variant of the Kissing Face With Closed Eyes Emoji.
+😾	A cat that is very grumpy.  Popularised in many memes as Grumpy Cat.
+😿	The cat variant of the Crying Face Emoji.
+🙀	The cat variant of the Weary Face Emoji.
+👣	Two human footsteps,  showing the outline of both feet, including all five toes.
+👤	Generic profile of one person. Often used in interface design to represent a user.
+👥	Generic profile of two people. Often used in interface design to represent users.
+👦	The face of a boy, smiling. Differentiated from the man emoji on Android by wearing a cap, and on iOS by the lack of any facial hair. It is difficult to discern the boy from the man emoji on Windows, as the two are very similar in appearance.
+👧	The face of a girl, smiling. Differentiated from the woman emoji by the hairstyle which features pigtails which are not present on the woman.
+👨	A male face, of adult age. Differentiated from the boy emoji on Android by the lack of a cap, and on iOS by a moustache. Difficult to discern from the boy emoji on Windows.
+👩	A female face, of adult age. Differentiated from the girl emoji by the lack of pig-tails in her hair.
+👨‍👩‍👧	A family with a father, mother, and one daughter.
+👪	A family unit, which is commonly represented as a father, mother, and one or two children.
+👨‍👩‍👦‍👦	A family with a father, mother, and two sons.
+👨‍👩‍👧‍👧	A family with a father, mother, and two daughters.
+👩‍👩‍👦	A family with two mothers, and one son.
+👩‍👩‍👧	A family with two mothers, and one daughter.
+👩‍👩‍👧‍👦	A family with two mothers, one daughter, and one son.
+👩‍👩‍👦‍👦	A family with two mothers, and two sons.
+👩‍👩‍👧‍👧	A family with two mothers, and two daughters.
+👨‍👨‍👦	A family with two fathers, and one son.
+👨‍👨‍👧	A family with two fathers, and one daughter.
+👨‍👨‍👧‍👦	A family with two fathers, one daughter, and one son.
+👨‍👨‍👦‍👦	A family with two fathers, and two sons.
+👨‍👨‍👧‍👧	A family with two fathers, and two daughters.
+👫	A man and a woman holding hands, most likely due to being in a relationship.
+👬	Two men holding hands, most likely due to being in a relationship.
+👭	Two women holding hands, most likely due to being in a relationship.
+👮	This police officer wears a blue hat, which features a gold badge or shield in the middle.
+👯	An iteration of the Playboy Bunny known in Japan as a Bunny Girl. Usually depicted as an attractive woman  wearing bunny ears; a bunny girl can also be seen in anime as a hybrid human/animal known as Kemonomimi.
+👰	A bride in traditional western wedding dress with a veil on her head. This veil is white for the Apple emoji, pink in the Google emoji and blue in Microsoft’s emoji.
+👱	A person with blond hair (which is the masculine version of blonde) meaning this emoji character should be male.
+👲	A man wearing a gua pi mao; a type of Chinese hat. Sometimes referred to as a skullcap.
+👳	A man wearing a turban; a form of customary headwear worn by Sikhs or Muslims.
+👴	An elderly male face with gray (grey) hair, and visible wrinkles. Balding in many versions of this artwork, such as Apple and Microsoft’s images.
+👵	An elderly female face with gray hair, and visible wrinkles.
+👶	The face of a young infant (baby). Shows  the face of a baby with a small amount of hair on most platforms; while Android shows a swaddled baby with a pacifier (dummy) in its mouth.
+👷	A construction worker wearing a hard-hat (safety helmet) for safety. May be tired after a hard day at work.
+👸	The face of a princess; a young girl or woman wearing a small crown or tiara.
+💂	A British guardsman, known as a foot guard. Wears a tall black hat with a yellow chin-strap. Must look straight ahead at all times, even when tourists attempt to distract them.
+👼	An angelic baby with wings, and a halo above its head. Commonly known as a cherub.
+🎅	Santa Claus, known in some countries as Father Christmas, brings joy to children at Christmas time. Married to Mrs Claus.
+👻	Boo! A ghost emoji, trying to scare someone. Might also be a halloween costume.
+👹	A hideous creature with crooked teeth, horns and lots of hair. Called Namahage in Japanapese folklore, this character can be depicted in any number of ways – usually with a coat made of straw and a scary mask.
+👺	Appears to be a red mask, with thick, hairy eyebrows, a long nose and frowning mouth.
+💩	A pile of poo that is shaped like a soft-serve ice cream. Brown in color with a friendly smile in most versions of this artwork.
+💀	A human skull. Not to be confused with the skull and crossbones emoji.
+👽	An extra terrestrial alien head, using the stereotypical depiction of an alien with a bald head, large open eyes, and a mouth.
+👾	A type of monster or unknown creature that may feature in arcade video games. Usually assumed to be an alien, an alien monster may have varying appearances across a range of games.
+🙇	A person bowing deeply which is known as dogeza in Japan. Used to express a sincere apology, or to request a large favour.
+💁	An information desk person, iconically represented in the Apple emoji artwork as a girl holding out her hand as if she were a waitress carrying an invisible tray of drinks.
+🙅	A person with arms forming an ‘X’ to indicate ‘no’ or ‘no good’. This motion is also used on the TV game show Deal or No Deal to indicate ‘No Deal’.
+🙆	A person with arms above his or her head, making an ‘OK’ sign (circle) with the whole body. Intended to be gender-neutral, but shown in the Apple artwork as a woman, and by Microsoft as a man.
+🙋	A person with a hand in the air, as if this characters wants to ask or answer a question.
+🙎	A person pouting. Outwardly showing his or her displeasure with the situation. This shows a person pouting, rather than just the face on the Pouting Face Emoji.
+🙍	An upset person, frowning with dismay. Should be gender-neutral, but displays as a woman on iOS, and a man on Windows.
+💆	A person getting his or her face massaged.
+💇	A person in the process of getting their hair cut. This emoji is intended to be gender-neutral, but is commonly shown as a girl or woman smiling, with scissors shown open next to the hair on her head.
+💑	A man and woman standing next to each other, smiling, with a pink love heart floating in the air between them.
+👩‍❤️‍👩	Two women standing next to each other, smiling, with a pink love heart floating in the air between them.
+👨‍❤️‍👨	Two men standing next to each other, smiling, with a pink love heart floating in the air between them.
+💏	A couple kissing, because they are in love.  A heart is displayed to confirm that this is a kiss.
+👩‍❤️‍💋‍👩	The Kiss (Woman, Woman) emoji was approved as part of Unicode 8.0 in 2015.
+👨‍❤️‍💋‍👨	The Kiss (Man, Man) emoji was approved as part of Unicode 8.0 in 2015.
+💅	A bottle of nail polish, or colored nail polish being applied to finger nails.
+👂	A single human ear. May be used in the context of listening, or hearing something.
+👀	A pair of eyes, looking slightly to one side. The Google version of this emoji previously showed only a single eye, despite the name of this character being eyes (plural). This has been resolved in current Android versions.
+👃	A human nose. May be used to indicate smelling, or something that smells.
+👄	A human mouth, sometimes displayed as lips instead of the mouth itself.
+💋	The mark left after a firm kiss is placed with bright lipstick. Used in place of ‘xxx’ (kisses), or to send a kiss to someone. More seductive than the kiss emoji.
+👅	A tongue, sticking out. May be used as a childish sign of defiance.
+# Hand Gesture Emojis
+👋	A hand waving to say “hello” or “goodbye”.
+👍	A thumbs-up gesture indicating approval.
+👎	A thumbs-down gesture indicating disapproval.
+👆	Index finger pointing upward, showing the back of the hand while doing so.
+👇	Index finger pointing downward.
+👈	Index finger pointing to the left.
+👉	Index finger pointing to the right.
+👌	Index finger touching thumb to make an open circle. Represents “I’m okay” or “yes, that’s correct / good”.
+👊	A fist displayed in a position to punch someone, or to fist-bump another person. Uses a right-hand in the Apple and Google versions of this emoji, but the Windows instead displays a left-handed fist sign instead.
+✊	A fist raised in the air used as a celebratory gesture: the fist pump. Can also be used to represent zero items, due to a lack of any fingers being held up.
+✋	A hand held up showing its palm. May be used to mean stop, or as a high-five.
+💪	An arm flexing to show its biceps muscle. Represents strength, or working out.
+👐	Two open hands, representing openness. Sometimes used as a hug, or as a display of jazz hands.
+🙌	Two hands raised in the air, celebrating success or another joyous event.
+👏	Two hands clapping emoji, which when used multiple times can be used as a round of applause.
+🙏	Two hands placed firmly together, meaning please or thank you in Japanese culture. Other common uses for this character include prayer/praying hands, or a high-five.
+🖐	A raised hand with a part between each finger and the thumb. Held up in a manner that may indicate the number five. Similar to a waving hand, without any motion.
+🖕	A middle finger emoji, used in some western cultures as a rude or insulting gesture. The back of the hand is shown with the middle finger raised.
+🖖	A raised hand, with the fingers separated between the ring finger and the middle finger.
+# Tree Emojis
+🌱	A seedling, a sign of spring. A new plant of some kind sprouting from the earth, hoping to grow into a large tree, flower or plant if conditions are suitable.
+🌲	A type tree found in nature that doesn’t lose its leaves seasonally, but stays green all year around.
+🌳	A type of tree that has leaves turn orange or brown and fall off during the season of fall / autumn.
+🌴	A palm tree, commonly found in tropical and otherwise warm climates. Often represents a vacation or holiday destination.
+🌵	A cactus emoji, usually found in warm or desert climates. Most commonly displayed as a three-branch Saguaro cactus.
+🌷	A single tulip emoji. Commonly seen at tulip festivals in locations around the world with a dutch heritage.
+🌸	A pretty, light-pink flower in bloom. The cherry blossom is very popular in Japan and Japanese art. Weather forecasts track the cherry blossom front across Japan each year.
+🌹	A single red rose emoji. Sometimes used as a display of romance, or for their pleasant smell.
+🌺	A hibiscus emoji, a pretty flower that can be used to attract butterflies and bees.
+🌻	A sunflower emoji. Bright and yellow. Give it to someone to make them smile!
+🌼	A blossoming flower. Similar to the cherry blossom, but not necessarily the same shade. Blossom is also the name of a popular TV Show in the early 1990s.
+💐	A collection of colorful flowers arranged in a bouquet and often given as a gift for a wedding, mother’s day, valentine’s day, or other occassion.
+🌾	A rice crop, growing in the ground before harvesting.
+🌿	A herb, such as basil or oregano. Appears on most platforms as a small, green plant with 3-6 leaves.
+🍀	A four-leaf clover is a less common variety of the three-leaved clover. Considered to be lucky.
+🍁	A red, orange or yellow maple leaf, often associated with Canada due to the maple leaf on the Canadian Flag.
+🍂	A fallen leaf (or leaves), as would be seen in the season of fall or autumn.
+🍃	A leaf (or leaves in the Apple artwork) fluttering in a gentle breeze, falling to the ground.
+🍄	A mushroom emoji; a vegetable that looks similar to a toadstool.
+🌰	A chestnut emoji. Sometimes mistaken for an acorn.
+# Animal Emojis
+🐀	A rat emoji, not to be confused with the mouse emoji.
+🐁	A small white mouse shown full-body, as opposed to the mouse face emoji.
+🐭	A mouse face, drawn in cartoon-style with whiskers and two rounded ears.
+🐹	A cute hamster, with pink ears, orange over half its face, and white/gray for the other part of the face. Has three whiskers on each side.
+🐂	The Ox emoji was approved as part of Unicode 6.0 in 2010.
+🐃	A Domestic Water Buffalo, used primarily for tilling (ploughing) rice fields in parts of Asia.
+🐄	A cow with a black and white patched coat, likely a Holstein Freisan breed.
+🐮	A friendly-looking cow face, looking straight ahead.
+🐅	A tiger emoji; orange with black stripes. Created in a photorealistic style in Apple’s artwork, and cartoon style in Google’s version.
+🐆	A leopard emoji which has a yellow or gold colored coat with black spots.
+🐯	A tiger face, which is displayed on major platforms with a cute cartoon appearance.
+🐇	A white rabbit, sometimes associated with Spring and Easter.
+🐰	A cute, cartoon-styled rabbit face.
+🐈	A domestic house cat, shown facing left-of-screen on all major platforms. Distinct from the cat face emoji, this cat emoji shows the full body of the animal including the tail, which is generally upright.
+🐱	The face of a cat, looking directly forward. Shown as yellow or gray on most platforms, this emoji generally has a cartoon-style appearance and visible whiskers.
+🐎	A galloping horse with saddle. The same as the Horse Racing Emoji, but without a jockey riding it. Created in a photorealistic style in Apple’s artwork, and cartoon style in Google’s version.
+🐴	A horse’s head.
+🐏	A male sheep, known as a ram, with spiralled horns.
+🐑	A white sheep which is similar in appearance to the ram emoji. May be found on a farm.
+🐐	The Goat emoji was approved as part of Unicode 6.0 in 2010.
+🐓	A rooster; a male chicken known also as a cockerel or cock.
+🐔	A chicken with a yellow beak, red comb on top of the head, and red wattle (under the chin). Not to be mistaken with the rooster emoji.
+🐤	A small, yellow, baby chick (chicken).
+🐣	A cute baby chicken hatching from its egg and seeing the world for the first time.
+🐥	A baby chicken (chick), facing forward.
+🐦	A bird, with no species specified. Appears like a sparrow on Android (blue, previously yellow), Windows (blue) and Twitter (red). Only shows the head of the (gray) bird in Apple’s artwork.
+🐧	The cute, cartoon-style penguin with a yellow/orange colored beak.
+🐘	A large elephant, found in parts of Africa and Asia.
+🐪	A camel with one bump, found in parts of Africa and India. More common than the two-bump Bactrian Camel.
+🐫	A camel with two bumps found primarily in Central Asia. Much rarer than the single-bump Dromedary Camel.
+🐗	A boar, otherwise known as a wild pig. Displayed with brown fur and prominent tusks on most platforms.
+🐖	A domestic pig, whose ancestor is the wild boar. This farm animal has been created in a photorealistic style in Apple’s artwork, and cartoon style in Google’s version.
+🐷	A pig’s head, distinct from the pig emoji, which shows the full pig body. Displayed forward-facing, with a distinctive snout.
+🐽	A pig’s snout / nose.
+🐕	A dog emoji, which appears as different breeds depending on the platform it is being viewed on.
+🐩	A poodle is a breed of dog, commonly seen groomed with longer hair around the head, paws and tail than the rest of the body.
+🐶	The face of a dog, showing both eyes, both ears, nose and mouth. Shows the face of a dog smiling, with eyes open and tongue hanging out.
+🐺	A wolf with gray fur facing forwards. Shown on iOS with brown fur and facing to the left. Not to be confused with the fox face emoji.
+🐻	A cute bear face, displayed more like a teddy bear emoji than an accurate depiction of a real bear.
+🐨	A koala emoji, a native Australian marsupial that lives in the trees. Known for sleeping and eating the leaves of the eucalyptus tree.
+🐼	A panda’s head.
+🐵	The face of a monkey. Similar to the monkey emoji, but only showing the head, and not the entire body.
+🙈	One of the three wise monkeys, known as Mizaru.
+🙉	One of the three wise monkeys, known as Kikazaru.
+🙊	One of the three wise monkeys, known as Iwazaru.
+🐒	A cheeky looking monkey, sitting down with tail curled up.
+🐉	As a mythological creature, the dragon is generally displayed in many Chinese and Japanese traditions.
+🐲	The face of a dragon, showing only the head. Most platforms display this in green, looking similar to a dinosaur. The dragon face emoji is shown with a horn on the front in Microsoft's artwork, and appears like a miniature bat or vampire in Samsung's emoji image.
+🐊	A crocodile emoji, a creature often mistaken for an alligator.
+🐍	A green, coiled snake sticking out its forked tongue.
+🐢	A turtle with shell. Looks similar to a tortoise.
+🐸	A frog emoji, showing the green face of a frog, with large eyes and mouth.
+🐋	A large, blue whale emoji. Appears to be a humpback whale in Apple’s artwork for.
+🐳	A whale emoji, spouting water out of its blowhole.
+🐬	A dolphin emoji, leaping in the air. Considered to be one of the most intelligent animals on Earth.
+🐙	An octopus emoji, with two eyes and eight tentacles. Between 3 and 6 of the tentacles are shown in most versions of this emoji.
+🐟	A fish emoji, swimming in a non-tropical climate.
+🐠	A fish that lives in tropical (warm) water, generally colorful in appearance.
+🐡	Also eaten as a delicacy in Japan, where it is known as fugu.
+🐚	A seashell found at the beach. It has a spiral shape, and may become home to a hermit crab.
+🐌	A snail shown with distinctive spiral shell. Differs greatly in color and style across different platforms.
+🐛	An insect, which appears to be a caterpillar in Apple’s Artwork, and a centipede or millipede in the Google and Microsoft versions.
+🐜	A small, black ant. Created in a photorealistic style in Apple’s artwork, and cartoon style in Google’s version.
+🐝	A bee emoji, buzzing in the air.
+🐞	A ladybug emoji, the colloquial name for the coccinellidae family of small beetles. Known as a ladybird in some countries.
+🐾	Paw prints left by a dog or cat, possibly after wandering through paint.
+# Weather, Environment and Space Emojis
+🔥	A small flame, mostly yellow but red at the top. Can be used to describe something or someone hot.
+🌙	The Crescent Moon emoji was approved as part of Unicode 6.0 in 2010.
+💧	A single drop of water, or another blue liquid. May be used as a single drop of sweat.
+💦	Beads of sweat splashing in a single direction. Is not distinguishable from splashing water, and is often used as water instead of sweat.
+💨	A gust of air, representing the fast movement of a person or object to the left of this character. Can be used in combination with another emoji to express motion, such as a fast runner 🏃💨 or fast car  🚗💨.
+🌟	A five-point star of pale-yellow color, with small bursts of light shining around it. Generally used for visual flair rather than astronomical purposes.
+🌠	A star displaying a path of light behind it, indicating movement through the sky.
+🌄	The sun rising over a mountain range, early in the morning.
+🌅	A sun rising, early in the morning. Can be difficult to distinguish from a sunset in some versions of this artwork.
+🌈	A pretty rainbow emoji in a clear sky, which tends to appear when there is a light rain or mist in the air, at the same time as sunshine.
+🌊	A wave in the ocean or open sea. Could be used to surf on, or to jump waves at the beach.
+🌋	A volcano, erupting with smoke and lava.
+🌌	The Milky Way – a galaxy of billions of stars that includes our own solar system and planet earth.
+🗻	Mount Fuji (called Fuji-san in Japan) is the largest mountain in Japan. Often seen with snow on the peak in colder months of the year.
+🗾	Shows a map of the country of Japan, which is the only country to have its own emoji map. Other countries can be found on the various globe emojis, or the world map emoji.
+🌐	A symbol of planet earth. Commonly used as an icon for internationalization, and features on the iOS software keyboard to change keyboard languages.
+🌍	The world, showing Europe and Africa.
+🌎	The world, showing North and South America.
+🌏	The world, showing Asia and Australia.
+🌑	The New Moon Symbol emoji was approved as part of Unicode 6.0 in 2010.
+🌒	The moon shown with only a small portion of the right side lit, and the rest in shadow.
+🌓	The moon shown with the right side lit, and the rest in shadow.
+🌔	The moon shown mostly lit, with a small portion of the left side in shadow.
+🌕	A full moon, unobstructed by any shadow cast from the earth. Also said to be the time that werewolves move amongst us.
+🌖	The Waning Gibbous Moon Symbol emoji was approved as part of Unicode 6.0 in 2010.
+🌗	The Last Quarter Moon Symbol emoji was approved as part of Unicode 6.0 in 2010.
+🌘	The Waning Crescent Moon Symbol emoji was approved as part of Unicode 6.0 in 2010.
+🌚	A moon with a face, hiding in shadow. Sometimes perceived to be creepy, this is a regular new moon, with a face on it.
+🌝	A smiling full moon, sometimes said to have a slightly creepy face. Not to be confused with the full moon that has no face.
+🌛	A crescent moon shape, showing a face looking left.
+🌜	A crescent moon shape, showing a face looking right.
+🌞	A yellow sun with a kind, smiling face. Not your typical smiling sun with big grin and sunglasses.
+# Food and Drink
+🍅	A red, ripe tomato emoji. Looks similar to the red apple emoji at small sizes.
+🍆	An eggplant emoji, known as an aubergine in Japan and countries speaking British English. A long, purple-looking vegetable used in many types of cooking around the world.
+🌽	An ear of corn, known as as maize in many countries around the world.
+🍠	A sweet potato, sometimes (incorrectly) referred to as a yam in North America.  Can have a range of skin colors, from purple to red or beige.
+🍇	Grapes that are commonly found as red grapes (purple-colored) or white grapes (green-colored). Used to create wine.
+🍈	A juicy melon. A fruit known by a variety of names in different parts of the world.
+🍉	A piece of watermelon, showing the red/pink flesh, seeds, and green rind on the outside.
+🍊	An orange-colored fruit that tastes similar to a mandarin. Known as citrus unshiu in Japan, this fruit has since been exported around the world.
+🍋	A yellow-colored fruit, known for its sour taste.
+🍌	A ripe, yellow banana ready to be eaten. Enjoyed by humans and monkeys alike. Tends to be grown in warm or tropical climates.
+🍍	A yellow spiky pineapple, with green leaves on top.
+🍎	A red apple, of the fruit variety. Looks orange on Android.
+🍏	A green apple, of the fruit variety.
+🍐	A light green-colored fruit, which defines a pear-shape.
+🍑	A fleshy pink/orange-colored fruit, with a fuzzy skin.
+🍒	A red fruit that contains a stone. Known as a wild cherry in the UK.
+🍓	A bright red garden strawberry. A sweet fruit generally referred to simply as a strawberry.
+🍔	A cheeseburger emoji, otherwise known as a burger. Two buns, containing a meat patty, cheese, and sometimes lettuce or tomato.
+🍕	A slice  of pizza, with pepperoni topping on it. The Android pizza emoji includes  a slice of green pepper / capsicum as well. How exotic!
+🍖	Meat on a bone in a classic cartoon-like style, seen in manga/anime. Known as “Ano Niku”, meaning “That Meat you see in Manga or Anime“. Literally “That Meat”.
+🍗	A cooked leg of turkey, chicken, or another form of poultry. Possibly too large to be a chicken drumstick, this turkey leg is eaten either as part of a roast  dinner, or off the bone as a fast food item.
+🍘	A type of cracker made from rice, known as senbei in Japan. Shown with nori (seaweed) at the base, as they are sometimes served.
+🍙	A rice ball (called onigiri in Japanese) containing white rice, and wrapped in seaweed (called nori in Japanase).
+🍚	A bowl of rice, steamed and ready to be served alongside a delicious meal. Popular in Asian cuisine.
+🍛	A plate of food containing curry and rice. Due to the origins of emoji being in Japan, this was most likely intended to be a Japanese curry, but could be used as a curry from any other nationality.
+🍜	A steaming bowl of food. Displayed as a bowl of ramen (noodles) in most emoji artwork, though by definition could be any bowl containing hot food.
+🍝	Spaghetti being twirled on a fork, from a bowl of spaghetti bolognese.
+🍞	A loaf of bread, displayed as it appears prior to slicing. May be used in the creation of a sandwich.
+🍟	The French Fries emoji was approved as part of Unicode 6.0 in 2010.
+🍡	A popular sweet Japanese dessert, on a stick. Similar in appearance to the oden emoji.
+🍢	Oden is a Japanese meal made of egg, fish cakes, radish and other ingredients. Oden can be served with or without a skewer.
+🍣	Pieces of sushi, generally displayed as raw fish on rice.
+🍤	Shrimp (prawn) coated in breadcrumbs and fried.
+🍥	A fishcake (or fish cake) that is used in some Asian meals, known as Narutomaki in Japanese. Each slice includes a spiral design for visual flair.
+🍦	A soft-serve ice cream in a cone. The ice cream is a white color, which implies that it is vanilla flavored on most platforms. Windows displays this as a chocolate ice cream.
+🍧	Shaved ice with syrup added to it for flavor. Often referred to as a snow cone.
+🍨	A bowl containing one or more scoops of ice cream.
+🍩	A delicious donut emoji; spelled as doughnut in British English.
+🍪	A cookie of any description, though appears as a chocolate chip cookie on most major platforms. On Samsung devices, this emoji displays as two saltine crackers, instead of a cookie.
+🍫	A block of chocolate, shown as squares with a foil wrapper.
+🍬	A wrapped piece of sugar candy, often a treat for children. May be given at Halloween when kids are trick-or-treating.
+🍭	A lollipop: circular candy on a stick.
+🍮	A custard dessert, such as a crème caramel or flan with a layer of caramel on the top.
+🍯	A pot of honey, made by a honey bee.
+🍰	A single slice or piece of  shortcake – likely strawberry, but could be peach. This emoji is sometimes used in birthday greetings, as a variation of the birthday cake emoji.
+🍱	Bento – a Japanese combination of rice, vegetables and meat packed into a box for lunch.
+🍲	A pot containing a variety of food.
+🍳	A frying pan with an egg being fried, representing cooking.
+🍴	A fork and knife; a set of utensils used to assist in the eating of meals. Displayed with the fork on the left, and the knife on the right.
+🍵	A teacup without a handle, which is commonly used in Japan to drink matcha.
+🍶	An alcoholic beverage popular in Japan, sometimes called rice wine as it is made from rice. Shown as a sake bottle, and a small bowl-like cup in which sake is generally served.
+🍷	A glass of wine, which is generally shown with red wine inside.
+🍸	A cocktail glass with a thin stem, and wide surface area. Often associated with martinis, most versions of this emoji show an olive inside the glass.
+🍹	An tropical flavored drink, usually served with a straw and cocktail umbrella.
+🍺	A beer (or lager) in a glass or stein. Shown with froth (head) spilling over the top.
+🍻	Two beers being clinked together in a celebratory manner.
+🍼	A bottle with a nipple (teat) on the top, used for feeding milk to babies.
+# Birthdays, Holidays and Occassion Emojis
+🎀	A pretty ribbon, tied in a bow.
+🎁	A wrapped present. A box, wrapped with gold paper, with a ribbon and bow for decoration.
+🎂	A cake with lit candles in the middle, created for someone’s birthday.
+🎃	A pumpkin emoji, carved into a Jack-o’-lantern for halloween.
+🎄	A decorated Christmas Tree emoji: a pine tree displayed at Christmas time, usually adorned with lights, tinsel and other ornaments. Presents are commonly placed at the bottom of the tree.
+🎋	A tree that people use to attach pieces of paper containing good wishes. Often done for spiritual or religious reasons, in many cultures.
+🎍	This pine decoration, called kadomatsu in Japanese, is made of bamboo or pine.
+🎑	Moon Viewing Ceremonies (called Tsukimi in Japan) are held each year in autumn to celebrate the full moon and waxing moon in Japan.
+🎆	Firework emoji, showing a yellow explosion of light in the night sky, used for any number of celebrations.
+🎇	A  sparkler: a form of hand-held firework often used at parties and celebrations. The sparkler is lit at one end, and held at the other.
+🎉	A colourful party popper, used to celebrate an occasion or party.
+🎊	Confetti Ball emoji: a ball containing confetti, burst open at celebrations such as New Year’s Eve or a Wedding in a celebratory manner.
+🎈	A single balloon, used for birthdays and other celebrations. Shown in red on most platforms, except Samsung and Microsoft that display a blue balloon.
+💫	A symbol used in comics or other visual mediums, indicating that a person is dizzy.
+✨	Decorative sparkling stars, the kind that may be indicate an item as being ‘sparkling clean’ (very clean) or shiny.
+💥	A symbol that represents a crash or collision. An angular burst of orange and red in a star-like shape.
+🎓	A graduation cap, worn on the head of students graduating from college or university. Known in some locations as a mortar board with tassel.
+👑	A gold crown with jewels on the sides. Representative of a King, Queen, or other form of Royalty.
+🎎	Two Japanese Imperial Dolls, displayed on March 3 for Hinamatsuri (Dolls Day, Girls Day).
+🎏	Carp-shaped wind socks traditionally flown in Japan to celebrate Children’s Day.
+🎐	Although named wind chime, this emoji more closely resembles a wind bell; a decoration that is popular in Japan and made of glass.
+🎌	Two Japanese Flags, crossed at the base.
+🏮	A red lantern hung outside an izakaya in Japan: a type of bar that also has small meals available. Suitable for a casual evening to eat and/or drink.
+💍	A ring with displaying a gem stone of some kind on the top, most likely a diamond. This piece of jewellery is often associated with a proposal and subsequent engagement to be married.
+# Heart emojis
+💔	A love heart, broken in two. This emoji represents the aching one feels when they are missing the  person they love.
+💌	A white envelope, sealed with a sticker or seal of a red love heart. Contains a love letter.
+💕	Two pink love hearts. One larger than the other. Can be used to display that “love is in the air”.
+💞	Hearts revolving around one or more other hearts.
+💓	A heart with vibration / movement lines above it, indicating it is a beating heart.
+💗	A pink heart, inside a slightly larger pink heart, inside a larger-again pink heart. Intended to give the impression of a heart increasing in size.
+💖	A pink love heart with stars around it, making it look like it is sparkling or shimmering.
+💘	A heart emoji with an arrow through the center, like the arrow that cupid shoots for love.
+💝	A heart-shaped box, tied with a ribbon. May be a gift box, box of chocolates, or a jewellery box.
+💟	The Heart Decoration emoji was approved as part of Unicode 6.0 in 2010.
+💜	A purple heart emoji. Shown as pink in Android 4.4.
+💛	A yellow or gold colored love-heart. Inexplicably, this displayed as a pink hairy heart on Android 4.4.
+💚	A green heart emoji.
+💙	A blue heart emoji.
+# Sport Emojis
+🏃	A person running, with a large stride  and arms outstretched.
+🚶	A going for a walk. Taking a slow-medium pace, this person would be a runner if they picked up their speed.
+💃	A person dancing, commonly associated with the salsa dancing woman used in Apple's emoji artwork.
+🚣	A small rowboat suitable for a small number of people. Couples or families sometimes hire these as an activity on calm waters.
+🏊	A person swimming in a pool, the ocean, or another body of water. Previously lacked goggles on iOS and OS X, but this has been updated in the latest revision.
+🏄	A person on a surfboard, riding on a wave in the ocean. Wears a wetsuit or board shorts in most versions.
+🛀	A person enjoying a bath, either with or without a shower over the top. Differs from the Bathtub Emoji, as this is a person bathing “having a bath”, not just the tub.
+🏂	A person snowboarding downhill at a ski resort. Wearing clothing designed for cold climates.
+🎿	Skis and ski boots, worn when skiing at a ski resort.
+🚴	A person riding a bicycle for leisure, sport or transport.
+🚵	A person (cyclist) who rides a mountain bike: a type of off-road bicycle.
+🏇	A jockey riding a horse, in a horse race.
+🎣	A fishing rod (pole) with a fish caught on the end.
+🏀	An orange-colored basketball displayed with a hoop. Many versions of this emoji omit the hoop, and display only the basketball.
+🏈	The oval ball used in the game of American football, known as gridiron in some countries.
+🎾	A tennis racket (racquet) with a tennis ball. Apple only displays the tennis ball in this emoji.
+🏉	The oval-shaped ball used in the game of rugby. Varies slightly in shape in the two main versions of the game: rugby union and rugby league.
+🏆	A trophy given as an recognition of achievement, usually in sports. The trophy emoji is a gold cup, with a engraving on the bottom detailing the award.
+🎽	A singlet or running shirt. Shown with a sash.
+🏁	A flag with black and white squares shown in a checkerboard pattern, used to signal the start or end of a motor car race.
+#Music and Performing Arts Emojis
+🎹	A small section of a music keyboard, as opposed to a computer keyboard. Showing white and black keys, this keyboard is played by a pianist to make music. Commonly used as a piano emoji.
+🎸	A guitar, which may be shown as an electric guitar (Apple, Google), or an acoustic guitar (Microsoft, Twitter).
+🎻	A violin emoji. Sometimes  used in the context of the world’s smallest violin.
+🎷	The Saxophone emoji was approved as part of Unicode 6.0 in 2010.
+🎺	A trumpet, a brass instrument played in jazz bands.
+🎵	A music note emoji, which can denote song lyrics, or other music related topics.
+🎶	Three eighth notes (quavers in British English), used to represent music or singing. Sometimes inserted next to quoted lyrics, to make it clear that they are part of a song.
+🎼	A staff (or stave) showing a treble clef and five horizontal lines.
+🎧	Headphones, used to listen to music or other audio, usually from an iPod, phone, or other portable device.
+🎤	A microphone, used to amplify a person’s voice when speaking or singing. Shown with music notes on most platforms, implying it to be used for a singer / singing.
+🎭	Two masks often used on maps to indicate a theatre, these originate in Greek Theatre as masks of tragedy and comedy.
+🎫	A paper ticket, which may be for a theatre show, sporting event, or other ticketed performance.
+🎩	A top hat, worn in traditional British weddings and other formal occasions. This is also a popular playing piece in the game of Monopoly.
+🎪	A circular ‘big top’ circus tent, with a triangle flag on top.
+🎬	A board which contains the scene name, number, and film. A person ‘claps’ the board shut at the top while saying “Action” or “Cut” to indicate the start and stop of a scene that is being filmed.
+🎨	A palette used by an artist when painting, to store and mix paint colors.
+# Games and Recreation Emojis
+🎯	A dart board with dart hitting the center / bullseye region.
+🎱	The game of billiards, of which pool is a common version. Played with a cue, and colored balls. This emoji displays the black 8 ball on iOS, which looks similar to the Magic 8-Ball toy.
+🎳	Ten-pin bowling emoji, showing a bowling ball and pins.
+🎰	A gambling machine generally found in casinos. Shows three wheels with a lever to the side. Most platforms display three 7 digits on this emoji.
+🎲	A six-sided die, used in a range of board and turn-based games. Commonly called dice which refers to the plural of die. The emoji for the game die from Microsoft and LG shows two dice, whereas most other platforms show a single game die.
+🎮	A video game emoji, shown on major platforms as a console game controller with D-pad, joysticks, and buttons.
+🎴	A type of cards known as hanafuda cards in Japan which are used for a range of different games that require associating pictures (there are no numbers on the cards).
+🃏	The joker in a deck of cards, usually appearing like a court jester.
+🎠	A wooden painted horse, found on the carousel at a carnival. Faces to the left-of screen.
+🎡	A large rotating wheel, often found at a carnival or fair.
+🎢	A roller coaster in a theme park going down a dip in the ride. Three carriages can be seen with two people in each red carriage.
+# Trains, Cars, Travel and Transport Emojis
+🚃	A widely misunderstood emoji, due to the lack of consistency between platforms. A railway (railroad) car is a carriage that is generally pulled along a railway line by a locomotive.
+🚞	A railway in the mountains, which may be intended to be a funicular (shown as such in Microsoft’s artwork), or simply a train in mountainous terrain.
+🚂	A steam train, powered by coal or wood. An early type of locomotive, now mostly replaced by electric or diesel trains.
+🚋	A form of public transport on rails, usually found on streets in cities or other urban areas. For short or medium-length journeys.
+🚝	Similar to a train, but running on a single track. Monorails are often found at theme parks, or other tourist destinations.
+🚄	A high speed train, designed to cover long distances at high speed.
+🚅	A high speed train, designed to cover long distances at high speed. Also features a streamlined bullet nose, often used in reference to the Shinkansen in Japan.
+🚆	A train, of no specified type. Due to the presence of a steam train and fast train emoji, this is likely to be a regular electrified or diesel passenger train.
+🚇	A metro: frequent underground train found in built-up areas with high populations.
+🚈	A form of public transport similar to a tram, but running on a track or network separated from cars and other types of traffic.
+🚉	A station, presumed to be a train station. Displays a train alongside a platform, where passengers can board.
+🚊	A form of public transport on rails, usually found on streets in cities or other urban areas. For short or medium-length journeys.
+🚌	A bus used for public transport in cities and towns. Could also be used as a school bus.
+🚍	The front of a bus, showing the windscreen, as well as wing mirrors in some versions of this emoji.
+🚎	A type of bus that uses overhead electrical wires for power. Appears similar to a cross between a bus and a tram car.
+🚐	A small bus, designed to carry less people than a full-sized bus.
+🚑	An ambulance, used to transport patients between their home and the hospital.
+🚒	A red fire truck, an essential part of emergency services along with a police car or ambulance.
+🚓	A police car, shown with an emergency light on the top.
+🚔	A police car, shown with an emergency light on the top.
+🚨	A revolving red light seen on top of a police car. Often used in emergency circumstances in addition to a siren making a loud warning sound.
+🚕	A yellow taxicab, iconically seen in New York City. Shown from the side, as opposed to the oncoming taxi emoji.
+🚖	A yellow taxicab, iconically seen in New York City. Shown from the front, as opposed to the taxi emoji which displays the side of the vehicle.
+🚗	A car shown from the side. Appears as a red car on most platforms (which goes faster), except on Android where this displays as a blue car.
+🚘	A car, being shown from the front. The windscreen and hood (bonnet in British English) of the car can be seen.
+🚙	A vehicle used for recreation, which is generally understood to mean a campervan or motorhome.
+🚚	The Delivery Truck emoji was approved as part of Unicode 6.0 in 2010.
+🚛	The Articulated Lorry emoji was approved as part of Unicode 6.0 in 2010.
+🚜	A tractor, generally seen on farms.
+🚲	A bicycle, sometimes called a push bike, used for transport or sport.
+🚏	A sign indicating the location of a bus stop.
+🚧	A sign used to indicate roadwork or construction. Generally shown as yellow and black diagonal stripes, and often used to physically block access to a road or area.
+🚦	A set of red, orange (amber) and green traffic lights, used at intersections. More common than the horizontal traffic light.
+🚥	A set of red, orange (amber) and green traffic lights, used at intersections. Less common than the vertical traffic light.
+🚀	A rocket being propelled into space.
+🚁	A helicopter, which can hover in the air. Often seen in emergency circumstances such as transporting patients to a hospital, or for police or fire-fighting activity.
+💺	A seat, which could refer to any form of place to sit, with the distinction that a seat is generally fixed, and is not a chair (which can be moved).
+🚢	A large ship, used for transport of people or cargo across the ocean. May be a cruise ship, commonly found around tropical locations.
+🚤	A motorized speedboat used for recreation on lakes, or other bodies of water.
+🚡	An Aerial Tramway, most commonly seen at ski resorts, for transport between locations on a mountain. Can also be used as a tourist attraction, or as a form of public transport.
+🚠	The Mountain Cableway emoji was approved as part of Unicode 6.0 in 2010.
+🚟	Similar to a monorail, a suspension railway is elevated, but the vehicle is suspended under the track.
+🛂	A person checking passports at an international border.
+🛃	The Customs emoji was approved as part of Unicode 6.0 in 2010.
+🛄	The Baggage Claim emoji was approved as part of Unicode 6.0 in 2010.
+🛅	A bag left behind at an airport, usually found at a baggage collection counter. This Emoji features a suitcase, with the image of a key above it.
+💴	A yen banknote from Japan.
+💶	A Euro Banknote, used in many countries of the European Union. Commonly shown as the Hundred Euro (€100) note, or simplified to display a Euro Symbol €.
+💷	British money – a £20 note, used in England, Wales, Scotland and Northern Ireland. Colloquially referred to as “quid” in parts of the United Kingdom.
+💵	Cash money in the form of a dollar note. Appears as a $1 note issued in United States Dollars (USD) in Apple’s artwork, or a more generic dollar note on other platforms.
+# Landmarks and Buildings Emojis
+🗽	The Statue of Liberty, often used as a depiction of New York City.
+🗿	A Moyai (also spelled Moai) is a type of human rock carving from Easter Island.
+🌁	Foggy weather emoji. Shows fog covering a view of a bridge in Apple’s artwork, whereas Google and Twitter display high-rise city buildings in the fog.
+🗼	The Tokyo Tower is the second-tallest building in Japan, located in Minato, Tokyo.
+🏰	A castle, in a style that can be found in France and other parts of Europe.
+🏯	A traditional Japanese Castle, usually made from stone and wood.
+🌇	A beautiful view, featuring an orange sky, with the sun setting over the buildings of a city skyline.
+🌆	A view of city buildings as the last light disappears from the sky. An orange (or blue) glow lingers, before the stars of the night sky become visible.
+🌃	A night sky with stars, depicted on major platforms as a cityscape at night.
+🌉	A lit-up bridge, shown at night.
+🏠	A house, otherwise known as a home when someone is living in it. Suitable for a couple or larger family, other perhaps housemates.
+🏡	A suburban-looking house, with a tree, flower, or shrubs around it in the garden.
+🏢	A generic, high-rise office building. Generally found in cities, and most active during business hours.
+🏬	A large department store, selling a range of products to the general public. Shown as a large building with a billboard on most platforms, or as a shopping bag on Windows.
+🏭	An industrial factory, with flue-gas stacks releasing exhaust into the air.
+🏣	A Japanese post office, featuring the テ Japanese postal mark on the front of the building (or showing this mark instead of the building in Microsoft’s artwork).
+🏤	A European-style post office. A postal horn can be seen on the front, which is commonly found in the logos of European Postal Services.
+🏥	A place where people are taken to receive medical care. This hospital has a large red cross on the front, often used as a symbol for health care.
+🏦	A retail bank branch, where people can perform money-related tasks. Also a common location to find an ATM.
+🏨	A hotel building, displayed on most platforms as a building with many windows and a letter H on the front.
+🏩	A love hotel is a hotel that can be hired by the hour, instead of as accommodation for the evening.
+💒	A church building with a love heart above it, symbolising a wedding inside the building, usually with bride and groom.
+🏪	A shop that is generally open for longer hours than a regular supermarket, sometimes 24 hours per day.
+🏫	A school building with multiple storeys, and a clock on the front. A place that children, or teenagers attend for their education.
+# Flag Emojis
+🇦🇺	The flag for Australia, which may show as the letters AU on some platforms.
+🇦🇹	The flag for Austria, which may show as the letters AT on some platforms.
+🇧🇪	The flag for Belgium, which may show as the letters BE on some platforms.
+🇧🇷	The flag for Brazil, which may show as the letters BR on some platforms.
+🇨🇦	The flag for Canada, which may show as the letters CA on some platforms.
+🇨🇱	The flag for Chile, which may show as the letters CL on some platforms.
+🇨🇳	The flag for China, which may show as the letters CN on some platforms.
+🇨🇴	The flag for Colombia, which may show as the letters CO on some platforms.
+🇩🇰	The flag for Denmark, which may show as the letters DK on some platforms.
+🇫🇮	The flag for Finland, which may show as the letters FI on some platforms.
+🇫🇷	The flag for France, which may show as the letters FR on some platforms.
+🇩🇪	The flag for Germany, which may show as the letters DE on some platforms
+🇭🇰	The flag for Hong Kong, which may show as the letters HK on some platforms.
+🇮🇳	The flag for India, which may show as the letters IN on some platforms.
+🇮🇩	The flag for Indonesia, which may show as the letters ID on some platforms.
+🇮🇪	The flag for Ireland, which may show as the letters IE on some platforms.
+🇮🇱	The flag for Israel, which may show as the letters IL on some platforms.
+🇮🇹	The flag for Italy, which may show as the letters IT on some platforms.
+🇯🇵	The flag for Japan, which may show as the letters JP on some platforms.
+🇰🇷	The flag for South Korea, which may show as the letters KR on some platforms.
+🇲🇴	The flag for Macau, which may show as the letters MO on some platforms.
+🇲🇾	The flag for Malaysia, which may show as the letters MY on some platforms.
+🇲🇽	The flag for Mexico, which may show as the letters MX on some platforms.
+🇳🇱	The flag for Netherlands, which may show as the letters NL on some platforms.
+🇳🇿	The flag for New Zealand, which may show as the letters NZ on some platforms.
+🇳🇴	The flag for Norway, which may show as the letters NO on some platforms.
+🇵🇭	The flag for Philippines, which may show as the letters PH on some platforms.
+🇵🇱	The flag for Poland, which may show as the letters PL on some platforms.
+🇵🇹	The flag for Portugal, which may show as the letters PT on some platforms.
+🇵🇷	The flag for Puerto Rico, which may show as the letters PR on some platforms.
+🇷🇺	The flag for Russia, which may show as the letters RU on some platforms.
+🇸🇦	The flag for Saudi Arabia, which may show as the letters SA on some platforms.
+🇸🇬	The flag for Singapore, which may show as the letters SG on some platforms.
+🇿🇦	The flag for South Africa, which may show as the letters ZA on some platforms.
+🇪🇸	The flag for Spain, which may show as the letters ES on some platforms.
+🇸🇪	The flag for Sweden, which may show as the letters SE on some platforms.
+🇨🇭	The flag for Switzerland, which may show as the letters CH on some platforms.
+🇹🇷	The flag for Turkey, which may show as the letters TR on some platforms.
+🇬🇧	The flag for United Kingdom, which may show as the letters GB on some platforms.
+🇺🇸	The flag for the United States of America (USA), which may show as the letters US on some platforms.
+🇦🇪	The flag for United Arab Emirates, which may show as the letters AE on some platforms.
+🇻🇳	The flag for Vietnam, which may show as the letters VN on some platforms.
+# Technology Emojis
+📱	A mobile phone, referred to a cellular or cell phone in some countries.
+📲	A mobile phone, with an arrow pointing toward it. Intended to be used for an incoming phone call, but could also indicate anything on the device itself.
+💻	A personal computer, often displaying a laptop (notebook) computer.
+⏰	A small clock with two bells to scare a person awake at a pre-set time.
+⏳	The Hourglass With Flowing Sand emoji was approved as part of Unicode 6.0 in 2010.
+📷	A point-and-shoot camera, used to take photos before the popularity of smartphones.
+📹	A consumer video camera, used to record home movies in the 1980s and 1990s.
+🎥	A classic reel-to-reel film camera, used as a symbol for movies or films in general. May also be used in relation to the Emoji Movie.
+📺	A television set, used to display broadcasts over the air (terrestrial). Can also be used as a screen for various input sources such as a cable box, console, or media streamer.
+📻	A traditional radio, with speaker grille, tuner controls and antenna.
+📟	A device popular before the use of mobile phones, used to inform a person that you wish to speak to them. Today only used in specialty areas, such as hospitals.
+📞	A telephone receiver; the part of a telephone with a microphone to speak into, and a speaker to listen to the person on the other end of the line.
+📠	A fax machine,  which allows the sending of a scanned page of text or images over a standard telephone line. Popular in the 1980s and 1990s, prior to widespread use of the internet.
+💽	A minidisc looks like a small optical disc, in a permanent plastic case approximately the size of a cassette tape.
+💾	A popular form of transferring files in the 1980s and 1990s. This is the 3.5″ inch variant of the floppy disk, which had a hard outer shell.
+💿	A optical disc, of which the most common types are the CD and DVD.
+📀	Stands for Digital Video Disc (or Digital Versatile Disc); a type of optical media used for movie distribution (DVD Video) or storing files (DVD ROM)
+📼	A video cassette tape, commonly referred to as a video, or video tape. Used to play videos purchased on VHS cassette, or for recording television prior to widespread use of PVRs.
+🔋	A battery, or battery indicator.
+🔌	A plug used to power a device in an electrical outlet. Shown as a USA-style two-prong plug, used in numerous countries around the world.
+💡	A light bulb, used to light up a room. Can be used to indicate an idea when placed above a face.
+🔦	A flashlight emoji, known as a torch outside of North America. Used when in the dark – either when the electricity is out, or when camping.
+📡	The Satellite Antenna emoji was approved as part of Unicode 6.0 in 2010.
+💳	A credit card emoji, showing the back side of the card with magnetic strip.
+💸	A pile of three cash notes (US Dollar Bills in the Apple artwork) with a money clip that has wings attached. The money is flying away.
+💰	A bag that is full of money. Most likely coins, given the shape of the bag. Has a dollar $ sign on it, so as to not confuse it with other bags.
+💎	A gem that appears blue on screen, but is presumably intended to appear of similar shade to a diamond.
+# Clothing and Fashion Emojis
+🌂	An umbrella that is closed, likely as a result of collapsing it prior to going indoors.
+👝	A small pouch, somewhere between the size of a handbag, and a purse.
+👛	A place to keep coins and perhaps notes of money, for females. The male equivalent would be a wallet.
+👜	A bag that women keep with them at all times, containing a large array of items for a variety of situations. Also a fashion accessory.
+💼	A place to store notes and other office materials. Primarily used by older men.
+🎒	A school bag Emoji (also called a satchel) used by children attending school to carry books, lunch, and other personal belongings.
+💄	Red or pink lipstick, shown with the lid removed.
+👓	Prescription eyeglasses, shown with a variety of frames, depending on platform.
+👒	A hat worn by women for sun protection, or for fashion.
+👡	A sandal worn by a woman in summer, spring, or other weather that suits open-toed footwear. Has a heel at the back providing additional height to the wearer.
+👠	A high-heeled shoe worn by women to office jobs and social occasions.
+👢	A tall boot worn by women, featuring a zip at the top, and a slight heel
+👞	A shoe worn by a man, to work, dinner, or another occasion that requires footwear. Unlike womens shoes, this shoe is likely to be comfortable.
+👟	A sneaker – a comfortable shoe used in sports such as tennis or golf, or for fashion purposes.
+👙	A two-piece bikini, worn at the beach, pool, or on vacation at a tropical destination.
+👗	A pretty dress, suitable for a ball, party or other similar occasion.
+👘	A traditional Japanese robe that can be worn by women or men.
+👚	A blouse worn by women in a neat-casual setting.
+👕	A plain t shirt, that can be worn by men or women.
+👔	A tie worn by men at work or formal occasions.
+👖	Denim jeans, worn by men or women. A popular form of casual trousers worn by the runner emoji in Apple's emoji artwork
+# Tools, Envelopes and Stationery Emojis
+🚪	A door, used to enter a house. May be the front door, or an internal door within a house.
+🚿	A shower, or shower head.
+🛁	A bathtub (or bath tub), either with or without a shower over the top. Differs from the Bath Emoji, as this is just the bath tub, not a person bathing or “having a bath”.
+🚽	A toilet, which may be used to deposit one of these.
+💈	A pole with red, white and blue stripes. Traditionally used by barbers out the front of their place of work. May be used in parts of Asia to denote a brothel.
+💉	A syringe, containing what appears to be blood. May be from a blood test at the hospital.
+💊	A type of pill, or capsule. Generally prescribed by a doctor prior to purchase.
+🔬	A microscope, found in science labs for magnifying insects, rocks, or other small objects.
+🔭	A telescope, used to view closer detail of stars and other objects in the night sky.
+🔮	A crystal ball, used by a clairvoyant to see information or inform a person of their future.
+🔧	The Wrench emoji was approved as part of Unicode 6.0 in 2010.
+🔪	A versatile type of knife commonly found in kitchens in Japan. Generally used for cutting and filleting meat and fish.
+🔩	A nut, shown with a bolt (or screw). Usually made of steel.
+🔨	A conventional claw hammer.  Displays with a claw on the back for nail removal.
+💣	A bomb, with a lit fuse. This means it is soon to explode.
+🚬	A cigarette with smoke showing at the end. Intended to be used a smoking symbol / sign, but displays as a lit cigarette on many platfotms.
+🔫	An gun emoji, more precisely a pistol. A weapon that has potential to cause great harm. This type of firearm is commonly held by police officers.
+🔖	A bookmark, used to keep track of the last page you read in a book. Not to be confused with the label emoji.
+📰	A newspaper: how people read the news from the previous day prior widespread internet access.
+🔑	A key, which may be used to open a door or lock.
+📩	An envelope, showing an arrow pointing down.
+📨	An envelope shown to be arriving, or incoming.
+📧	A symbol to be used for representing email. As there is no universal email logo or symbol, this differs between platforms.
+📥	An inbox tray, often used as an icon for an email inbox. A paper tray, with an arrow pointing down, into the tray.
+📤	An inbox tray, often used as an icon for an email outbox. A paper tray, with an arrow pointing up, out of the tray.
+📦	A parcel or package being delivered, containing the goods of an online order.
+📯	A postal horn (usually called a post horn) was used in the 18th and 19th centuries to indicate that a mail coach was arriving to deliver the mail. When the horn was blown, people would have to get out of the way, sort of like a siren today.
+📮	A postbox, where letters and other mail are posted, in order to be delivered.
+📪	A closed mailbox, with the flag resting.
+📫	A closed mailbox, with the flag raised.
+📬	An open mailbox, with the flag raised.
+📭	An open mailbox, with the flag resting.
+📄	A piece of paper, with the printed contents facing up.
+📃	A printed page, curled at the bottom.
+📑	Bookmark tabs, stuck to pages of a book or document. These indicate important sections, or that a signature or other action must be taken in these places.
+📈	A chart showing figures increasing over time, with an upward tick. A type of line graph.
+📉	A chart showing figures decreasing over time, with an downward trend. A type of line graph.
+📊	A bar chart showing a comparison of figures or other data.
+📅	A calendar, which may feature a single date, or a month-view. Not to be confused with the Tear-Off Calendar which always displays a single date.
+📆	A tear-off calendar, featuring a single day, with ring-binders across the top for changing dates. Not to be confused with the Calendar Emoji which does not feature ring binders.
+🔅	An icon of a outlined sun, used when decreasing the brightness of a screen. Appears smaller than the High Brightness Symbol.
+🔆	An icon of a outlined sun, used when increasing the brightness of a screen. Appears larger than the Low Brightness Symbol.
+📜	An ancient scroll on papyrus, with shorter versions known as a roll.
+📋	A clipboard, used for quick access to pages of paper, and provides a hard surface to write on.
+📖	An open, hard-back book with blue cover.
+📓	A notebook, used for writing notes.
+📔	A notebook with a decorative cover. Unless you are on an Apple device, which shows a rather plain and undecorated cover.
+📒	A bound, yellow ledger book.
+📕	A closed book, which reads “Vol. 1 by John Appleseed” on the cover of Apple’s artwork.
+📗	A green book, which reads “Vol. 2 by John Appleseed” on the cover of Apple’s artwork.
+📘	A blue book, which reads “Vol. 3 by John Appleseed” on the cover of Apple’s artwork.
+📙	An orange book, which reads “Vol. 4 by John Appleseed” on the cover of Apple’s artwork.
+📚	A stack of three books of different colors.
+📇	An index file containing a list of information on small, printed cards. In this instance, the card index contains contacts, and their contact details.
+🔗	A chain emoji, used as a symbol for a link on the web.
+📎	A paperclip can be used for holding multiple pieces of paper together, or ejecting SIM cards from mobile phones. Also known for being Clippy in Microsoft Office.
+📌	A push pin, used for pinning notes to a notice board.
+📐	A triangle-shaped ruler. Used for drawing diagonal lines, or for measurement.
+📍	A pin with a round plastic end. Most commonly used in mapping software to indicate a specific location.
+📏	A ruler that can be used for drawing straight lines, or measuring length.
+🚩	A red flag, most associated with golf, as shown in the flag in hole emoji.
+📁	A folder used to store files in a filing cabinet. Also used as an icon for a folder on most GUI operating systems.
+📂	An open folder used to store files in a filing cabinet.
+📝	A memorandum: a piece of paper written to used for communication in formal settings. Displayed as a piece of paper being written on with a pencil.
+🔏	A locked (closed) padlock, with an ink pen (otherwise known as a fountain pen) next to it. May related to key signing, a term used in digital security.
+🔐	A locked (closed) padlock, with a key shown next to it.
+🔒	A locked (closed) padlock, used either in the real world to secure an object; or as a symbol of security or SSL certificate on the web.
+🔓	An unlocked (open) padlock, used either in the real world to secure an object; or as a symbol of a non-secure page relating to SSL certificates on the web.
+📣	The Cheering Megaphone emoji was approved as part of Unicode 6.0 in 2010.
+📢	A loudspeaker used to make announcements in public areas such as schools, or sporting grounds.
+🔈	A speaker cone displayed without any sound waves.
+🔉	A speaker cone displayed with one sound wave, generally used as an icon to indicate the decreasing of volume on a phone or computer.
+🔊	A speaker cone displayed with three sound waves, generally used as an icon to indicate the increasing of volume on a phone or computer.
+🔇	A speaker with a red line through it, indicating muted volume or silencing of audio.
+💤	A series of three Zs making a Zzz. Represents sleeping, or snoring. Can also be used in some contexts to mean “boring”.
+🔔	A gold or yellow bell, which is commonly used on mobile phones as an icon for notifications or ringing sounds.
+🔕	A gold or yellow bell with a red line through it, which is commonly used on mobile phones as an icon for the silencing of notifications or ringing sounds. A mute, or silent mode.
+💭	A large cloud-like shape more commonly known as a Thought Bubble.
+💬	A cartoon-style balloon used to represent spoken word in comics. Sometimes  used in communication apps to indicate that another person is typing a message.
+🚸	A crossing sign for children, usually positioned near schools or other areas that drivers should be cautious of young children in the area.
+🔍	A magnifying glass, pointing to the right. The same as the Right-Pointing Magnifying Glass Emoji, but with the glass on the left instead of the right.
+🔎	A magnifying glass, pointing to the right. The same as the Left-Pointing Magnifying Glass Emoji, but with the glass on the right instead of the left.
+# Signs, Chinese Characters and Letter Emojis
+🚫	Called a “No Entry” sign Emoji, but does not look like the no entry road sign that one might expect.
+📛	A name badge, used to identify oneself in a location that others may not know your name, such as a school trip, or a work conference.
+🚷	A pedestrian symbol with a red stroke through it, indicating that pedestrians are prohibited from this location.
+🚯	A person dropping litter (rubbish, trash) with a red stroke through it, indicating that littering is prohibited in this area.
+🚳	A bicycle with a red stroke through it, indicating that bikes are prohibited from this location.
+🚱	A water tap with a red stroke through it, indicating that water is not safe for drinking (non-potable).
+📵	A mobile phone with a red stroke through it, indicating that mobile phones should not be present. Often seen in restricted areas, such as Customs or Passport Control.
+🔞	The number eighteen with a red stroke through it, indicating a location where a person must be aged 18 or above to enter.
+🉑	The Circled Ideograph Accept emoji was approved as part of Unicode 6.0 in 2010.
+🉐	Denotes a “good bargain” in Japanese.
+💮	An emoji symbol of a white flower, often a cherry blossom.
+🈴	Means “agreement” in Japanese. More literally, it means to unite, or join together.
+🈵	This emoji means “full” in Japanese, usually used to denote “full capacity” such as a gas/petrol tank on a car or pre-paid phone card.
+🈲	This Emoji means “prohibit, restrict or forbid” in Japanese.
+🈶	This emoji means to own or posses.
+🈸	This Emoji has two meanings.
+🈺	Means “work” in Japanese.  This Emoji used to mean “open for business” and precedes business hours.
+🈷	CJK Ideographs are characters used in Chinese, Japanese and Korean languages. Their writing systems all completely or partly use Chinese characters.
+🈹	Symbol for a sale, or bargain prices in Japan (“cut prices”). Literally translated, this character means to cut or divide.
+🈳	This 空 character means empty and available in Japanese. This is used in the context of an empty parking space or a vacant hotel room.
+🈂	The Squared Katakana Sa emoji was approved as part of Unicode 6.0 in 2010.
+🈁	Means “Here” in Japanese, referring to a destination.
+💹	A graph showing the current value of the Japanese Yen.
+❎	The Negative Squared Cross Mark emoji was approved as part of Unicode 6.0 in 2010.
+✅	The White Heavy Check Mark emoji was approved as part of Unicode 6.0 in 2010.
+📳	An icon representing vibration mode on a mobile phone, used as an silent alternative to notification sounds.
+📴	The Mobile Phone Off emoji was approved as part of Unicode 6.0 in 2010.
+🆚	The Squared Vs emoji was approved as part of Unicode 6.0 in 2010.
+🅰	A symbol representing Blood Type A.
+🅱	A symbol representing Blood Type B.
+🆎	A symbol representing Blood Type AB.
+🆑	CL is what shows on the CLear button of some older mobile phones.
+🅾	A symbol representing Blood Type O.
+🆘	SOS is the description for the distress signal in Morse Code. This emoji means SOS or “emergency”.
+🆔	The letters ID in a square.
+🚾	A water closet is a name used for public toilet, bathroom or restroom used in some countries. Typically abbreviated to the letters WC, this may be found on signage in public buildings, as an alternative to the restroom symbol.
+🆒	The word cool, shown enclosed in a square. This generally displays in a shade of blue, or blue-gray on most platforms. Used as a text decoration.
+🆓	The word free, shown enclosed in a square.
+🆕	The word new, shown enclosed in a square.
+🆖	The letters NG, shown enclosed in a square, which are an acronym for the words No Good.
+🆗	The letters OK, shown enclosed in a square. Meaning Okay, denoting approval. The opposite of the Squared NG Emoji.
+🆙	The word up with an exclamation point after it, shown enclosed in a square. Originally intended to denote leveling up in a game.
+🏧	The Automated Teller Machine emoji was approved as part of Unicode 6.0 in 2010.
+# Astrological Zodiac Sign Emojis
+# Arrows, Numbers and Misc Symbol Emojis
+🚻 🚹 🚺 🚼 ♿️ 🚰 🚭 🚮 ▶️ ◀️ 🔼 🔽 ⏩ ⏪ ⏫ ⏬ ➡️ ⬅️ ⬆️ ⬇️ ↗️ ↘️ ↙️ ↖️ ↕️ ↔️ 🔄 ↪️ ↩️ ⤴️ ⤵️ 🔀 🔁 🔂 #️⃣ 0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟 🔢 🔤 🔡 🔠 ℹ️ 📶 🎦 🔣 ➕ ➖ 〰 ➗ ✖️ ✔️ 🔃 ™ © ® 💱 💲 ➰ ➿ 〽️ ❗️ ❓ ❕ ❔ ‼️ ⁉️ ❌ ⭕️ 💯 🔚 🔙 🔛 🔝 🔜 🌀 Ⓜ️ ⛎ 🔯 🔰 🔱 ⚠️ ♨️ ♻️ 💢 💠 ♠️ ♣️ ♥️ ♦️ ☑️ ⚪️ ⚫️ 🔘 🔴 🔵 🔺 🔻 🔸 🔹 🔶 🔷 ▪️ ▫️ ⬛️ ⬜️ ◼️ ◻️ ◾️ ◽️ 🔲 🔳
+# Clock Emojis
+🕐	The Clock Face One O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕑	The Clock Face Two O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕒	The Clock Face Three O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕓	The Clock Face Four O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕔	The Clock Face Five O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕕	The Clock Face Six O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕖	The Clock Face Seven O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕗	The Clock Face Eight O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕘	The Clock Face Nine O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕙	The Clock Face Ten O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕚	The Clock Face Eleven O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕛	The Clock Face Twelve O'Clock emoji was approved as part of Unicode 6.0 in 2010.
+🕜	The Clock Face One-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+🕝	The Clock Face Two-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+🕞	The Clock Face Three-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+🕟	The Clock Face Four-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+🕠	The Clock Face Five-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+🕡	The Clock Face Six-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+🕢	The Clock Face Seven-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+🕣	The Clock Face Eight-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+🕤	The Clock Face Nine-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+🕥	The Clock Face Ten-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+🕦	The Clock Face Eleven-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+🕧	The Clock Face Twelve-Thirty emoji was approved as part of Unicode 6.0 in 2010.
+# Unicode 7 Emoji Additions
+🌡	A thermometer, used as a way to measure temperature. May be used in relation to weather (generally hot), or illness.
+🌤	The sun, with a small cloud in the foreground. The majority of the sun is visible.
+🌥	The sun shown behind a cloud, with about 20% of it visible. Very similar to the sun behind cloud emoji, but with less sun visible.
+🌦	Raindrops falling from a cloud, with the sun shown in the background (half covered by the cloud). The combination of sun and rain may cause a rainbow to appear in the sky.
+🌧	Raindrops falling from a cloud. People standing under it should probably use an umbrella to keep dry.
+🌨	A cloud with small snowflakes drifting from it.
+🌩	A storm cloud with a bolt of lightning coming out of it.
+🌪	A tornado appearing to come from within a cloud in the sky.
+🌫	Fog lingering in the air. Very similar to the foggy emoji.
+🌬	The face of a Mother Nature character, creating wind by blowing air from her mouth.
+🌶	A hot pepper, otherwise known as a chili pepper, originating in Mexico.
+🍽	A fork and knife shown on either side of a dinner plate.
+🎖	A ribbon and medallion generally awarded to a person in the military for heroic acts.
+🎗	An awareness ribbon, worn to show support of a cause or group.
+🎙	The Studio Microphone emoji was approved as part of Unicode 7.0 in 2014.
+🎚	The Level Slider emoji was approved as part of Unicode 7.0 in 2014.
+🎛	The Control Knobs emoji was approved as part of Unicode 7.0 in 2014.
+🎞	The Film Frames emoji was approved as part of Unicode 7.0 in 2014.
+🎟	The Admission Tickets emoji was approved as part of Unicode 7.0 in 2014.
+🏅	A gold medal, given to a person who has won a sporting event, such as a race. Not to be confused with the military medal emoji.
+🏋	A person lifting a barbell loaded with weights above their head.
+🏌	A person swinging a golf club, attempting to hit a golf ball toward the flag on the green.
+🏍	A motorcycle, otherwise known as a motorbike used for sport/racing purposes. For a transport-based motorcycle, use a motor scooter.
+🏎	A formula-one style racing car.
+🏔	A mountain with snow resting at higher altitudes. Similar in appearance to the Mount Fuji emoji.
+🏕	A campsite featuring a tent and a tree, and perhaps a campfire. Similar to the tent emoji.
+🏖	A beach showing sand, and an umbrella for protection from the sun.
+🏗	The Building Construction emoji was approved as part of Unicode 7.0 in 2014.
+🏘	Multiple houses.
+🏙	The Cityscape emoji was approved as part of Unicode 7.0 in 2014.
+🏚	A house which is unoccupied, and has become derelict. In a state of disrepair.
+🏛	The Classical Building emoji was approved as part of Unicode 7.0 in 2014.
+🏜	The Desert emoji was approved as part of Unicode 7.0 in 2014.
+🏝	The Desert Island emoji was approved as part of Unicode 7.0 in 2014.
+🏞	The National Park emoji was approved as part of Unicode 7.0 in 2014.
+🏟	A large capacity stadium, featuring a large amount of seating for sporting fans, or people attending other shows hosted by the stadium.
+🏳	The Waving White Flag emoji was approved as part of Unicode 7.0 in 2014.
+🏴	The Waving Black Flag emoji was approved as part of Unicode 7.0 in 2014.
+🏵	A round flower decoration, in a similar shape to a flower blossom. May be found used on ancient sculptures, as well as modern military awards.
+🏷	The Label emoji was approved as part of Unicode 7.0 in 2014.
+🐿	A chipmunk emoji, which looks similar to a squirrel. Shown in brown, with a bushy tail. Often shown eating an acorn or chestnut.
+👁	A single human eye, looking forward. This eye is in a different shape and style to the pair of eyes, which are more rounded, and looking to one side.
+📸	The Camera With Flash emoji was approved as part of Unicode 7.0 in 2014.
+📽	The Film Projector emoji was approved as part of Unicode 7.0 in 2014.
+🕉	A symbol often used in relation to the Indian religions of Hinduism, Buddhism, Sikhism and Jainism.
+🕊	A dove, carrying an olive branch, as a symbol of peace.
+🕯	The Candle emoji was approved as part of Unicode 7.0 in 2014.
+🕰	A clock with a flat base, and a round face. Designed to sit on a mantel, often about a fireplace.
+🕳	A round, cartoon-style hole in the ground. May be used in the context of "crawling into a hole" in a shameful or embarrassing situation.
+🕴	A man wearing a suit, hovering above the ground with a shadow displayed beneath him.
+🕵	An undercover investigator, wearing a hat, and sometimes using a magnifying glass to closely inspect evidence.
+🕶	Sunglasses that can be worn outside for protection from the sun. Often association with connotations of being "cool", or leisurely in sunny places.
+🕷	A black spider with eight legs, with similar appearance to a funnel-web spider.
+🕸	A spider web, shown in the symmetrical orb web shape commonly seen in cartoon form.
+🕹	The Joystick emoji was approved as part of Unicode 7.0 in 2014.
+🖇	The Linked Paperclips emoji was approved as part of Unicode 7.0 in 2014.
+🖊	The Lower Left Ballpoint Pen emoji was approved as part of Unicode 7.0 in 2014.
+🖋	The Lower Left Fountain Pen emoji was approved as part of Unicode 7.0 in 2014.
+🖌	The Lower Left Paintbrush emoji was approved as part of Unicode 7.0 in 2014.
+🖍	The Lower Left Crayon emoji was approved as part of Unicode 7.0 in 2014.
+🖥	A desktop computer that is shown as a current-model iMac in Apple's artwork, and a PC tower case in the Emoji One image.
+🖨	A regular computer printer, shown on most platforms as a gray or silver color. Generally plugs into a desktop computer.
+🖱	A three button mouse, which can be used with a variety of desktop computers. Apple displays this emoji using an image of its own Magic Mouse product which only has a single physical button.
+🖲	The Trackball emoji was approved as part of Unicode 7.0 in 2014.
+🖼	A framed containing a photograph or painting inside. Shown with a view of mountains in the Apple artwork. May be found in a gallery or museum.
+🗂	The Card Index Dividers emoji was approved as part of Unicode 7.0 in 2014.
+🗃	The Card File Box emoji was approved as part of Unicode 7.0 in 2014.
+🗄	The File Cabinet emoji was approved as part of Unicode 7.0 in 2014.
+🗑	The Wastebasket emoji was approved as part of Unicode 7.0 in 2014.
+🗒	The Spiral Note Pad emoji was approved as part of Unicode 7.0 in 2014.
+🗓	The Spiral Calendar Pad emoji was approved as part of Unicode 7.0 in 2014.
+🗜	The Compression emoji was approved as part of Unicode 7.0 in 2014.
+🗝	The Old Key emoji was approved as part of Unicode 7.0 in 2014.
+🗞	A newspaper, rolled up for delivery to a house.
+🗡	A sharp and pointed knife used for stabbing, generally as a weapon. Looks similar to a sword, but much smaller and can be held easily in one hand. Not to be confused with the hocho (kitchen knife).
+🗣	The silhouette of a person speaking. Faces to the right, with lines demonstrating speech shown coming from the mouth.
+🗨	A left-facing speech bubble, which was included in Unicode 7.0, but not considered a standard addition for the purposes of emoji presentation.
+🗯	A form of speech balloon used with angular edges, used to denote angry speech in comics.
+🗯	A form of speech balloon used with angular edges, used to denote angry speech in comics.
+🗳	The Ballot Box With Ballot emoji was approved as part of Unicode 7.0 in 2014.
+🗺	A map of the planet earth, shown in Apple's artwork to be a physical paper map with crease lines where it has been folded.
+🛋	A couch, with a floor lamp next to it.
+🛌	The Sleeping Accommodation emoji was approved as part of Unicode 7.0 in 2014.
+🛍	Bags used for items purchased while shopping. May contain groceries, clothing, or other consumer items.
+🛎	The Bellhop Bell emoji was approved as part of Unicode 7.0 in 2014.
+🛏	A comfortable bed, shown with bedposts and a headboard. May be found in a household bedroom, a hotel, or other form of sleeping accommodation.
+🛠	The Hammer and Wrench emoji was approved as part of Unicode 7.0 in 2014.
+🛡	The Shield emoji was approved as part of Unicode 7.0 in 2014.
+🛢	A barrell or drum that contains oil. The exterior of this cylinder is shown in blue, with two holes on the top.
+🛣	A wide road shown from a first person perspective. Apple's artwork displays a road sign to Curpertino.
+🛤	The Railway Track emoji was approved as part of Unicode 7.0 in 2014.
+🛥	The Motor Boat emoji was approved as part of Unicode 7.0 in 2014.
+🛩	The Small Airplane emoji was approved as part of Unicode 7.0 in 2014.
+🛫	The Airplane Departure emoji was approved as part of Unicode 7.0 in 2014.
+🛬	The Airplane Arriving emoji was approved as part of Unicode 7.0 in 2014.
+🛰	The Satellite emoji was approved as part of Unicode 7.0 in 2014.
+🛳	The Passenger Ship emoji was approved as part of Unicode 7.0 in 2014.
+# Emojis that work in your Twitter Name, Twitter Bio, and Ask.fm questions
+☁	A cumulus cloud, which shows on some systems as a silhouette in black, and on other systems as a shaded white cloud.
+☺	This smiling face predates emoji, and works in all manner of older browsers and operating systems.
+☹	The White Frowning Face emoji was approved as part of Unicode 1.1 in 1993.
+✊	A fist raised in the air used as a celebratory gesture: the fist pump. Can also be used to represent zero items, due to a lack of any fingers being held up.
+✋	A hand held up showing its palm. May be used to mean stop, or as a high-five.
+☝	A single finger pointing upward, which could be used to represent the number one, or to ask a question.
+✌	Most commonly known as a ✌️ Peace Sign, but traditionally called as a Victory Hand. Two fingers held up on one hand making a V sign.
+⚡	Most commonly used as a lightning bolt for stormy weather, this symbol is intended to be a warning for high voltage
+✨	Decorative sparkling stars, the kind that may be indicate an item as being ‘sparkling clean’ (very clean) or shiny.
+⭕	Used as an alternative to a check (tick) in Japan for a something that is correct. The opposite of an X (cross mark) for something wrong.
+❌	The Cross Mark emoji was approved as part of Unicode 6.0 in 2010.
+⭐	A five-point star of pale-yellow color. Generally used for visual flair rather than astronomical purposes.
+❕	The White Exclamation Mark Ornament emoji was approved as part of Unicode 6.0 in 2010.
+❔	The White Question Mark Ornament emoji was approved as part of Unicode 6.0 in 2010.
+❗	The Heavy Exclamation Mark Symbol emoji was approved as part of Unicode 5.2 in 2009.
+❓	The Black Question Mark Ornament emoji was approved as part of Unicode 6.0 in 2010.
+❄	Snow falling to the ground in the form of a unique ❄ snowflake. With enough snow, a snowman can be made!
+☀	The sun; a warm ball of fire that keeps life on earth viable. Represents sunny weather, or hot days.
+⛅	A sun appearing from behind a cloud. Used in weather forecasts to indicate a partially sunny day.
+☔	An umbrella with a hooked handle, open and with rain falling on it. Used to show rainy weather.
+⛄	A snowman emoji, made out of snow (usually by children) in winter. The name Snowman Without Snow indicates that it is not snowing on the snowman.
+☎	A traditional landline (home phone) telephone with a receiver on top of the base, where numbers are dialled.
+➿	Two curly loops, which represent a reel-to-reel tape recorder. Used as a symbol for voicemail on many phones.
+✂	A pair of ✂ scissors, used for cutting.
+⚽	A round, black and white ball used in the game of soccer, which is known as football in much of the world.
+⚾	A white baseball, with regulation red stitching. Used in the game of the same name, baseball.
+⛳	A golf emoji, specially the triangular red flag in the hole of a golf course green.
+♠	A spade symbol Emoji, which is used in card games for the ‘spades’ suit.
+♥	A heart symbol emoji, which is used in card games for the hearts suit. Generally shown in red, despite the name. Not to be confused with the black heart emoji.
+♣	A club symbol Emoji, which is used in card games for the ‘clubs’ suit.
+♦	A diamond symbol Emoji, which is used in card games for the ‘diamonds’ suit.
+☕	A hot beverage in a cup. Generally used as a tea or coffee emoji, but can be used as any hot drink.
+⏰	A small clock with two bells to scare a person awake at a pre-set time.
+⏳	The Hourglass With Flowing Sand emoji was approved as part of Unicode 6.0 in 2010.
+⌛	The Hourglass emoji was approved as part of Unicode 1.1 in 1993.
+⌚	A wrist watch, which is generally displayed as an analogue portable timepiece. Apple’s emoji artwork displays an Apple Watch, instead of a traditional watch that is shown on other platforms shown.
+♨	Representation of ♨ hot springs with steam rising from a circular tub. This is the common symbol seen to represent an onsen on maps in Japan.
+✏	A pencil, used for writing or drawing.
+✒	The nib of a quill, or fountain pen.
+✉	A envelope, used to post letters and cards.
+⚓	A metal device, dropped out of a boat to prevent it drifting away from the current location.
+⛪	A church building, generally associated with Christian denominations. In addition quiet prayer, churches hold regular worship services, weddings, baptisms and funerals.
+⛺	A tent, used for protection from wind and rain when camping. Often shown at night time, under stars.
+⛲	A water fountain, found in a park or other public space. Used for decorative purposes. A variety of styles of fountain are shown across different platforms.
+⛵	A sailboat, otherwise known as a sailing boat or yacht.  Uses sails as the source of propulsion to move around a body of water.
+✈	Used either as a literal airplane, or sometimes to represent an overseas vacation, or even airplane mode on a phone or tablet.
+⛽	A fuel pump, used to fill up a vehicle with gas / petrol. Shown with the letter G on the front in Apple’s artwork.
+⚠	A triangle with an exclamation mark inside, used as a warning or alert.
+⛔	The No Entry emoji was approved as part of Unicode 5.2 in 2009.
+	109 is a chain of Japanese department stores, with the most well known location being in Shibuya, Tokyo — Shibuya 109. An emoji of this store existed in the original Softbank emoji set in Japan, but did not get included as part of emoji standardisation in Unicode 6.0.
+⬆	An arrow, pointing up.
+⬇	An arrow, pointing down.
+⬅	An arrow, pointing left.
+➡	An arrow, pointing right.
+↗	An arrow pointing diagonally in an up-right, or north-east direction.
+↖	An arrow pointing diagonally in an up-left, or north-west direction.
+↘	An arrow pointing diagonally in an down-right, or south-east direction.
+↙	An arrow pointing diagonally in an down-left, or south-west direction.
+◀	A triangle-shaped arrow, pointing left.
+▶	A triangle-shaped arrow, pointing right. Commonly used as a symbol for play.
+⏪	Two triangles pointing to the left. Most commonly used as a symbol for rewinding media such as video tapes, CDs, or digital audio and video.
+⏩	Two triangles pointing to the right. Most commonly used as a symbol for fast forwarding media such as video tapes, CDs, or digital audio and video.
+♿	The international symbol of access, used to denote a facility which has been designed with wheelchair users in mind. Appears as a blue sign, with a white graphic of a person sitting in a wheelchair.
+㊙	The Circled Ideograph Secret emoji was approved as part of Unicode 1.1 in 1993.
+㊗	The Circled Ideograph Congratulation emoji was approved as part of Unicode 1.1 in 1993.
+✳	Used in a similar manner to a regular * asterisk character but tends to be shown in a similar vertical alignment to a • bullet point. The eight spoked asterisk has both a ✳︎ text and ✳️ emoji presentation available on most platforms.
+✴	A star with eight points, that is commonly shown in orange, and for some reason, with only four points.
+♈	The Aries astrological sign in the Zodiac. This Zodiac Symbol represents a Ram.
+♉	The Taurus astrological sign in the Zodiac. This Zodiac Symbol represents a Bull.
+♊	The Gemini astrological sign in the Zodiac. This Zodiac Symbol represents Twins.
+♋	The Cancer astrological sign in the Zodiac. This Zodiac Symbol represents a Crab.
+♌	The Leo astrological sign in the Zodiac. This Zodiac Symbol represents a Lion.
+♍	The Virgo astrological sign in the Zodiac. This Zodiac Symbol represents a Maiden.
+♎	The Libra astrological sign in the Zodiac. This Zodiac Symbol represents weighing scales.
+♏	The Scorpius astrological sign in the Zodiac. This Zodiac Symbol represents a Scorpion.
+♐	The Sagittarius astrological sign in the Zodiac. This Zodiac Symbol represents an Archer.
+♑	The Capricorn astrological sign in the Zodiac. This Zodiac Symbol represents a Goat.
+♒	The Aquarius astrological sign in the Zodiac. This Zodiac Symbol represents a Water-bearer.
+♓	The Pisces astrological sign in the Zodiac. This Zodiac Symbol represents a Fish.
+⛎	Ophiuchus is used by some as a 13th sign in the Zodiac. The symbol for ophiuchus appears a U shape with a wavy line through it.
+⭕	Used as an alternative to a check (tick) in Japan for a something that is correct. The opposite of an X (cross mark) for something wrong.
+❌	The Cross Mark emoji was approved as part of Unicode 6.0 in 2010.
+©	The Copyright Sign emoji was approved as part of Unicode 1.1 in 1993.
+®	The Registered Sign emoji was approved as part of Unicode 1.1 in 1993.
+™	A trademark symbol, the letters TM displayed after a word that is trademarked.
+⏫	Two triangles pointing up. Similar to rewind icon, rotated 90° clockwise.
+⏬	Two triangles pointing down. Similar to rewind icon, rotated 90° counter-clockwise.
+↕	A vertical line with arrowheads on both ends, pointing up and down.
+↔	A horizontal line with arrowheads on both ends, pointing left and right.
+↩	An arrow pointing to the left, with a curved hook at the other end. Similar in appearance to a sideways U Turn symbol, or a reply icon in an email application.
+↪	An arrow pointing to the right, with a curved hook at the other end. Similar in appearance to a sideways U Turn symbol, or a forward icon in an email application.
+⤴	A curved arrow pointing up.
+⤵	A curved arrow pointing down.
+ℹ	A lowercase letter i, enclosed in a rounded square or circle. Often implemented in apps, or websites to indicate that help or further information is available.
+❎	The Negative Squared Cross Mark emoji was approved as part of Unicode 6.0 in 2010.
+Ⓜ	The letter M in a circle, commonly used in to identify a Metro (subway, underground train) station in a city area.
+⚫	The Medium Black Circle emoji was approved as part of Unicode 4.1 in 2005.
+⚪	The Medium White Circle emoji was approved as part of Unicode 4.1 in 2005.
+◼	The Black Medium Square emoji was approved as part of Unicode 3.2 in 2002.
+◻	The White Medium Square emoji was approved as part of Unicode 3.2 in 2002.
+▪	The Black Small Square emoji was approved as part of Unicode 1.1 in 1993.
+▫	The White Small Square emoji was approved as part of Unicode 1.1 in 1993.
+✖	The Heavy Multiplication X emoji was approved as part of Unicode 1.1 in 1993.
+➕	The Heavy Plus Sign emoji was approved as part of Unicode 6.0 in 2010.
+➖	The Heavy Minus Sign emoji was approved as part of Unicode 6.0 in 2010.
+➗	The Heavy Division Sign emoji was approved as part of Unicode 6.0 in 2010.
+➰	The Curly Loop emoji was approved as part of Unicode 6.0 in 2010.
+〰	Just like a regular dash (hyphen), sometimes used in Asian character sets in the same way a – or — is used in latin character sets.
+♻	The universal recycling symbol, featuring three arrows pointing clockwise in a triangular formation.
+☢	The Radioactive Sign emoji was approved as part of Unicode 1.1 in 1993.
+☣	The Biohazard Sign emoji was approved as part of Unicode 1.1 in 1993.
+☠	A human skull show above a crossed pair of bones. Used as a symbol of death, and often as a danger warning on poisenous substances. Not to be confused with the skull emoji.
+☯	The Yin Yang emoji was approved as part of Unicode 1.1 in 1993.
+⚖	Balance scales which are commonly used in reference to the scales held by Lady Justice, representing the weighing of evidence.
+☮	A circular symbol, commonly used as a representation of peace. Alternatives include the Victory Hand, or the Dove of Peace.
+⚔	The Crossed Swords emoji was approved as part of Unicode 4.1 in 2005.
+⚒	The Hammer and Pick emoji was approved as part of Unicode 4.1 in 2005.
+⚛	The Atom Symbol emoji was approved as part of Unicode 4.1 in 2005.
+⚜	A decorative symbol that appears like a golden flower, but found in all manner of logos, symbols, and patterns. This symbol forms part of the World Scout Emblem, amongst other uses.
+✡	A symbol often used in relation to the religion of Judaism. Not to be confused with the Six Pointed Star With Middle Dot emoji.
+☸	A symbol often used in relation to the Indian religions of Hinduism, Buddhism, Sikhism and Jainism.
+☃	A snowman, shown under falling snow. This is an old text glyph, that includes an emoji presentation in iOS 9.1.
+☂	An umbrella with a hooked handle, open and with no rain falling on it, unlike the umbrella with raindrops.
+⏏	The Eject Symbol emoji was approved as part of Unicode 4.0 in 2003.
